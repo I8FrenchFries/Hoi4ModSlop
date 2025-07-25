@@ -1,0 +1,42 @@
+state = {
+	id = 60
+	name = "STATE_60"
+	manpower = 3305214
+	resources = {
+		steel = 11
+		chromium = 32
+		rubber = 32
+	}
+	
+	state_category = large_city
+
+	history = {
+
+		owner = GIS
+		add_core_of = GIS
+
+		victory_points = { 
+			3561 5 # Erfurt
+		}
+
+		victory_points = { 
+			425 1 # Weimar
+		}
+
+		victory_points = { 
+			538 2 # Jena
+		}
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			synthetic_refinery = 2
+		}
+	}
+
+	provinces = {
+		425 482 538 3500 3561 6501 6524 6582 9497 
+	}
+
+	local_supplies = 0.0 
+}
