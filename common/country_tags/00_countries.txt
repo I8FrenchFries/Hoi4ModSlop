@@ -7,7 +7,14 @@ GUE	= "countries/Guest.txt"
 INN	= "countries/Inno.txt"
 MRK	= "countries/Marick.txt"
 MUD	= "countries/Mudkip.txt"
+FCA = "countries/FrenchCanada.txt"
+IDA = "countries/Indiana.txt"
+NFR = "countries/NewFrance.txt"
+SUP = "countries/Super.txt"
+US1 = "countries/DirectorateAmerica.txt"
+
 #### Important countries above
+
 GER	= "countries/Germany.txt"
 ENG = "countries/United Kingdom.txt"
 SOV = "countries/Soviet Union.txt"
