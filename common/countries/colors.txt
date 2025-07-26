@@ -3,51 +3,77 @@
 ### vv The countries you should care about.
 
 AGT = {
-	color = rgb { 62 87 125 }
-	color_ui = rgb { 62 87 125 }
+	color = rgb { 70 77 139 }
+	color_ui = rgb { 70 77 139 }
 }
 
 BTZ = {
-	color = rgb { 88 149 102 }
-	color_ui = rgb { 88 149 102 }
+	color = rgb { 31 90 26 }
+	color_ui = rgb { 31 90 26 }
 }
 
 CAP = {
-	color = rgb { 141 48 54 }
-	color_ui = rgb { 141 48 54 }
+	color = rgb { 36  6  10 }
+	color_ui = rgb { 36  6  10 }
 }
 
 FRY = {
-	color = rgb { 176 167 106 }
-	color_ui = rgb { 176 167 106 }
+	color = rgb { 137 131 47 }
+	color_ui = rgb { 137 131 47 }
 }
 
 GIS = {
-	color = rgb { 67 67 67 }
-	color_ui = rgb { 67 67 67 }
+	color = rgb { 61 61 62 }
+	color_ui = rgb { 61 61 62 }
 }
 
 GUE = {
-	color = rgb { 101 41 122 }
-	color_ui = rgb { 101 41 122 }
+	color = rgb { 84 30 101 }
+	color_ui = rgb { 84 30 101 }
 }
 
 INN = {
-	color = rgb { 159 107 107 }
-	color_ui = rgb { 159 107 107 }
+	color = rgb { 116 55 65 }
+	color_ui = rgb { 116 55 65 }
 }
 
 MRK = {
-	color = rgb { 81 81 162 }
-	color_ui = rgb { 81 81 162 }
+	color = rgb { 41 48 148 }
+	color_ui = rgb { 41 48 148 }
 }
 
 MUD = {
-	color = rgb { 192 151 68 }
-	color_ui = rgb { 192 151 68 }
+	color = rgb { 191 132 35 }
+	color_ui = rgb { 191 132 35 }
+}
+
+SUP = {
+	color = rgb { 59 9 16 }
+	color_ui = rgb { 59 9 16 }
+}
+
+US1 = {
+	color = rgb { 75 12 20 }
+	color_ui = rgb { 75 12 20 }
+}
+
+FCA = {
+	color = rgb { 106 118 212 }
+	color_ui = rgb { 106 118 212 }
+}
+
+IDA = {
+	color = rgb { 88 97 175 }
+	color_ui = rgb { 88 97 175 }
+}
+
+NFR = {
+	color = rgb { 95 105 189 }
+	color_ui = rgb { 95 105 189 }
 }
 
 ### Penis :)
+### start digging in yo butt twin - Inno
 ### Look up here dingdong ^^
 
 GER = {
@@ -1161,6 +1187,5 @@ KUR = {
 	color = rgb { 234 179 30 }
 	color_ui = rgb { 255 153 0 }	
 }
-
 
 
