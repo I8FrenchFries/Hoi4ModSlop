@@ -1,0 +1,15 @@
+state={
+	id=1029
+	name="STATE_1029"
+	provinces={
+		1854 4838 6742 7779 12676
+	}
+	history = {
+		owner = SUP
+		add_core_of = SUP
+		}
+	manpower=1
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

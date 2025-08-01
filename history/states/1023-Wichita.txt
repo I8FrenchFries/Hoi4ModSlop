@@ -1,0 +1,15 @@
+state={
+	id=1023
+	name="STATE_1023"
+	provinces={
+		2082 3875 5001 5085 6968 9829 9920 12848 12893 
+	}
+	history = {
+		owner = NFR
+		add_core_of = NFR
+	}
+	manpower=1
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
